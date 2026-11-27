@@ -168,7 +168,7 @@ td{padding:10px 6px;border-bottom:1px solid #222;font-family:'JetBrains Mono',mo
         Log</a>
     </nav>
     <div class="side-foot">
-      <a class="back" href="/z">← NKB ana panel</a><br>
+      <a class="back" href="/z/botlar">← Kripto botlar (SHORT MG8)</a><br>
       © 2026 NKB Asistall. Paper trading — broker / lisanslı bahis yok.
     </div>
   </aside>
