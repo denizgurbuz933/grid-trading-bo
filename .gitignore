@@ -8,3 +8,8 @@ venv/
 env/
 ENV/
 .venv
+nkb_paper_state.json
+nkb_paper_state.json.tmp
+_patch_nkb_paper.py
+_shot_nkb_paper.py
+_shot_asistall.py
